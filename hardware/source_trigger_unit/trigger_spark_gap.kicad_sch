@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "a0366c8b-6c00-4dfa-abab-06bcd68fa47f")
 	(paper "A4")
+	(title_block
+		(title "Spark Gap Trigger (STU)")
+		(date "2026-03-09")
+		(rev "V1")
+		(company "Dawson HEP")
+		(comment 1 "Alex Xia")
+	)
 	(lib_symbols
 		(symbol "1ED312:1ED3124MU12F"
 			(exclude_from_sim no)
