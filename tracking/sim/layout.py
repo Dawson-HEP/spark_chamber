@@ -24,7 +24,7 @@ class Layout:
             self.max_y += self.barrier_width
     
 
-        microphones = [(-self.max_x, -self.max_y), 
+        self.microphones = [(-self.max_x, -self.max_y), 
                        (-self.max_x,self.max_y), 
                        (self.max_x,self.max_y),
                        (self.max_x, -self.max_y)]
