@@ -4,7 +4,7 @@ from math import factorial
 from scipy.optimize import least_squares,minimize
 
 class Triangulator:
-    def __init__(self, layout :layout):
+    def __init__(self, layout :layout.Layout):
         self.layout = layout 
 
     def thinGlassApproximation(self, TDoA_array, reference_mic=1):
