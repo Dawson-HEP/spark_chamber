@@ -78,3 +78,8 @@ FRA is conducted on the probe to establish its frequency response from 1 kHz to 
 <img src="./res/test_setup.jpg" width="65%">
 </p>
 
+0.300 kHz to 200 MHz FRA on Agilent 8712ET confirms bandwidth up to 50 MHz. A BW-limit needs to be selected on a scope to get rid of spiking at larger frequencies.
+
+<p align="center">
+<img src="./res/fra_200mhz.jpg" width="65%">
+</p>
