@@ -85,6 +85,16 @@ Switching traces on [Google Drive](https://drive.google.com/drive/folders/1RH5A-
 <img src="res/switching_igbt.png" width="65%">
 </p>
 
+High-voltage IGBT switching at 8 kV. Propagation delay <200 ns.
+
+- *Green*: 3V3 CMOS control trigger signal for gate drive (active-high) --- on wave gen.
+- *Yellow*: low-side IGBT gate turn-on with 22R series resistor.
+- *Red*: Capacitor switched node between 10k HV series resistor and buffer capacitor set.
+
+<p align="center">
+<img src="res/switching_igbt_hv.png" width="65%">
+</p>
+
 
 ### Spark Chamber (p. 5)
 
